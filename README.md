@@ -8,4 +8,4 @@ Topics covered in this example:
 * Perform a statistical test on the mean of the returns to conclude if there is alpha in the signal. 
 
 
-For the dataset, we'll be using the end of day from Quotemedia.
+Data comes from Quotemedia.
